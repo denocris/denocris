@@ -14,7 +14,7 @@ I am a Machine Learning lecturer at the [Master in HPC](https://twitter.com/mhpc
 
 More about my professional life here: [About](https://denocris.com/about/) & [Lectures](https://denocris.com/talks/).
 
-If you want to book a call with me, [here is the link](https://topmate.io/denocris) (it's free for students)
+Do you want to book a call with me? [Here it's the link!](https://topmate.io/denocris) (it's free for students)
 
 <!--
 **denocris/denocris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
